@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344504945026",
+    "project_id": "ab2024-c933d",
+    "storage_bucket": "ab2024-c933d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344504945026:android:f3797d4761f873d6dee79b",
+        "android_client_info": {
+          "package_name": "com.cdac.bioinfo.jaiwiki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrIC3XQ7RLWG5wg8qpNLF5c83daFP4JXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

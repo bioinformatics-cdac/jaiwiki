@@ -1,0 +1,6 @@
+package com.cdac.bioinfo.jaiwiki
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
